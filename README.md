@@ -42,20 +42,22 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 </p>
 
-## API Development & Testing
+### API Development & Testing
 
 <p>
   <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skills.syvixor.com/api/icons?i=swagger&perline=12&radius=40" alt="Skill Icons" />
 </p>
 
 ### Deployment & Hosting
 
 <p>
   <img src="https://skillicons.dev/icons?i=netlify,vercel,cloudflare" />
+  <img src="https://skills.syvixor.com/api/icons?i=render&perline=12&radius=40" alt="Skill Icons" />
 </p>
 
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <p>
   <a href="https://github.com/Rama-chandra55">
@@ -65,7 +67,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="https://www.kaggle.com/rock0707">
-    <img src="https://skillicons.dev/icons?i=kaggle" width="40"/>
+    <img src="https://skills.syvixor.com/api/icons?i=kaggle&perline=12&radius=40" alt="Skill Icons" />
   </a>
   <a href="https://huggingface.co/Tensor101">
     <img src="https://skills.syvixor.com/api/icons?i=huggingface&perline=12&radius=40" alt="Skill Icons" />
