@@ -19,7 +19,7 @@
 ### Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
 
 ### Frontend
