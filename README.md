@@ -2,12 +2,10 @@
 
 ### AI/ML Enthusiast | Generative AI | RAG | Agentic AI | Backend Development
 
-I'm a **B.E. Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning**, passionate about building practical AI-powered applications and exploring how intelligent systems can solve real-world problems.
 
 * 🔭 Currently building **AI-powered applications, RAG systems, and Agentic AI projects**
 * 🌱 Currently learning and exploring **Deep Learning, Generative AI, RAG, MCP, and AI Agents**
 * 🤖 Interested in **LLMs, AI Agents, RAG, Vector Databases, Semantic Search, and Automation**
-* 💻 I enjoy building applications using **Python, FastAPI, React, and modern AI frameworks**
 
 ---
 
