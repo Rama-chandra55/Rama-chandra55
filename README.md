@@ -67,6 +67,9 @@
   <a href="https://www.kaggle.com/rock0707">
     <img src="https://skillicons.dev/icons?i=kaggle" width="40"/>
   </a>
+  <a href="https://huggingface.co/Tensor101">
+    <img src="https://skills.syvixor.com/api/icons?i=huggingface&perline=12&radius=40" alt="Skill Icons" />
+  </a>
 </p>
 
 
