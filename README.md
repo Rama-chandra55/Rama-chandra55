@@ -1,6 +1,7 @@
   #                                      Hi 👋, I'm Ramachandra
 
 
+
 ###                 AI/ML Enthusiast | Generative AI | RAG | Agentic AI | Backend Development
 
 
@@ -30,21 +31,27 @@
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=fastapi,supabase" />
 </p>
 
 **Also working with:** REST APIs
 
-### Database
+### Database and chaching
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,qdrant" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+</p>
+
+## API Development & Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
 ### Deployment & Hosting
 
 <p>
-  <img src="https://skillicons.dev/icons?i=netlify,hostinger,streamlit" />
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,cloudflare" />
 </p>
 
 
@@ -59,9 +66,6 @@
   </a>
   <a href="https://www.kaggle.com/rock0707">
     <img src="https://skillicons.dev/icons?i=kaggle" width="40"/>
-  </a>
-  <a href="https://huggingface.co/Tensor101">
-    <img src="https://skillicons.dev/icons?i=huggingface" width="40"/>
   </a>
 </p>
 
