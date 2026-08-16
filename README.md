@@ -36,6 +36,12 @@
 
 **Also working with:** REST APIs
 
+### ML & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,seaborn,sklearn,tensorflow,pytorch" />
+</p>
+
 ### Database and chaching
 
 <p>
@@ -67,7 +73,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="https://www.kaggle.com/rock0707">
-    <img src="https://skills.syvixor.com/api/icons?i=kaggle&perline=12&radius=40" alt="Skill Icons" />
+    <img src="https://skills.syvixor.com/api/icons?i=kaggle&perline=12&radius=38" alt="Skill Icons" />
   </a>
   <a href="https://huggingface.co/Tensor101">
     <img src="https://skills.syvixor.com/api/icons?i=huggingface&perline=12&radius=40" alt="Skill Icons" />
