@@ -45,7 +45,7 @@
 ### Database and chaching
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+  <img src="https://skills.syvixor.com/api/icons?i=mysql,mongodb,redis,qdrant&perline=12&radius=40" alt="Skill Icons" />
 </p>
 
 ### API Development & Testing
