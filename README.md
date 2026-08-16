@@ -16,52 +16,15 @@
 
 ## 🛠️ Languages & Technologies
 
-### Programming
-
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js" />
+  <img src="https://skills.syvixor.com/api/icons?i=python,java,html,css3,javascript,reactjs,fastapi,oauth,curl,numpy,pandas,seaborn,scikitlearn,tensorflow,pytorch,mysql,mongodb,redis,qdrant,postman,swagger,cloudflare,vercel,netlify&perline=12&radius=40" alt="Skill Icons" />
 </p>
 
-### Frontend
+### 🧠 AI & LLM Concepts
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skills.syvixor.com/api/icons?i=modelcontextprotocol,crewai,langchain,n8n,huggingface&perline=12&radius=40" alt="Skill Icons" />
 </p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,supabase" />
-</p>
-
-**Also working with:** REST APIs
-
-### ML & Data Science
-
-<p>
-  <img src="https://skills.syvixor.com/api/icons?i=numpy,pandas,matplotlib,scikitlearn,tensorflow,pytorch&perline=12&radius=40" alt="Skill Icons" />
-</p>
-
-### Database and chaching
-
-<p>
-  <img src="https://skills.syvixor.com/api/icons?i=mysql,mongodb,redis,qdrant&perline=12&radius=40" alt="Skill Icons" />
-</p>
-
-### API Development & Testing
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://skills.syvixor.com/api/icons?i=swagger&perline=12&radius=40" alt="Skill Icons" />
-</p>
-
-### Deployment & Hosting
-
-<p>
-  <img src="https://skillicons.dev/icons?i=netlify,vercel,cloudflare" />
-  <img src="https://skills.syvixor.com/api/icons?i=render&perline=12&radius=40" alt="Skill Icons" />
-</p>
-
 
 ### 🤝 Connect With Me
 
@@ -74,9 +37,6 @@
   </a>
   <a href="https://www.kaggle.com/rock0707">
     <img src="https://skills.syvixor.com/api/icons?i=kaggle&perline=12&radius=38" alt="Skill Icons" />
-  </a>
-  <a href="https://huggingface.co/Tensor101">
-    <img src="https://skills.syvixor.com/api/icons?i=huggingface&perline=12&radius=40" alt="Skill Icons" />
   </a>
 </p>
 
