@@ -17,7 +17,7 @@
 ## 🛠️ Languages & Technologies
 
 <p>
-  <img src="https://skills.syvixor.com/api/icons?i=python,java,html,css3,javascript,reactjs,fastapi,oauth,curl,numpy,pandas,seaborn,scikitlearn,tensorflow,pytorch,mysql,mongodb,redis,qdrant,postman,swagger,cloudflare,vercel,netlify&perline=12&radius=40" alt="Skill Icons" />
+  <img src="https://skills.syvixor.com/api/icons?i=python,java,html,css3,javascript,reactjs,fastapi,oauth,curl,numpy,pandas,seaborn,scikitlearn,tensorflow,pytorch,mysql,mongodb,redis,qdrant,postman,swagger,cloudflare,vercel,netlify,astraluv,git&perline=12&radius=40" alt="Skill Icons" />
 </p>
 
 ### 🧠 AI & LLM Concepts
