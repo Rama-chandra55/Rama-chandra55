@@ -39,7 +39,7 @@
 ### ML & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,seaborn,sklearn,tensorflow,pytorch" />
+  <img src="https://skills.syvixor.com/api/icons?i=numpy,pandas,seaborn,sklearn,tensorflow,pytorch&perline=12&radius=40" alt="Skill Icons" />
 </p>
 
 ### Database and chaching
