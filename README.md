@@ -38,7 +38,7 @@
   <a href="https://www.kaggle.com/rock0707">
     <img src="https://skills.syvixor.com/api/icons?i=kaggle&perline=12&radius=38" alt="Skill Icons" />
   </a>
-  <a href="mailto:ramthinks07@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ramthinks07@gmail.com" target="_blank">
     <img src="https://skills.syvixor.com/api/icons?i=gmail&perline=12&radius=40" alt="Gmail" />
   </a>
 </p>
