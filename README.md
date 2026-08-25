@@ -30,10 +30,10 @@
 
 <p>
   <a href="https://github.com/Rama-chandra55">
-    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+    <img src="https://skills.syvixor.com/api/icons?i=github&perline=12&radius=40" alt="GitHub" width="45" height="45">
   </a>
   <a href="https://www.linkedin.com/in/j-ramachandra-56549b326/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+    <img src="https://skills.syvixor.com/api/icons?i=linkedin&perline=12&radius=40" alt="LinkedIn" width="45" height="45">
   </a>
   <a href="https://www.kaggle.com/rock0707">
     <img src="https://skills.syvixor.com/api/icons?i=kaggle&perline=12&radius=40" alt="Kaggle" width="45" height="45">
