@@ -36,7 +36,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="https://www.kaggle.com/rock0707">
-    <img src="https://skills.syvixor.com/api/icons?i=kaggle&perline=12&radius=38" alt="Skill Icons" />
+    <img src="YOUR_KAGGLE_LOGO_URL" alt="Kaggle" width="40" height="45">
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ramthinks07@gmail.com" target="_blank">
     <img src="https://skills.syvixor.com/api/icons?i=gmail&perline=12&radius=40" alt="Gmail" />
