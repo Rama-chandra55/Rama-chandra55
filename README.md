@@ -30,13 +30,13 @@
 
 <p>
   <a href="https://github.com/Rama-chandra55">
-    <img src="https://skills.syvixor.com/api/icons?i=github&perline=12&radius=30" alt="GitHub" width="30" height="30">
+    <img src="https://skills.syvixor.com/api/icons?i=github&perline=12&radius=40" alt="GitHub" width="40" height="40">
   </a>
   <a href="https://www.linkedin.com/in/j-ramachandra-56549b326/">
-    <img src="https://skills.syvixor.com/api/icons?i=linkedin&perline=12&radius=30" alt="LinkedIn" width="30" height="30">
+    <img src="https://skills.syvixor.com/api/icons?i=linkedin&perline=12&radius=40" alt="LinkedIn" width="40" height="40">
   </a>
   <a href="https://www.kaggle.com/rock0707">
-    <img src="https://skills.syvixor.com/api/icons?i=kaggle&perline=12&radius=30" alt="Kaggle" width="30" height="30">
+    <img src="https://skills.syvixor.com/api/icons?i=kaggle&perline=12&radius=40" alt="Kaggle" width="40" height="40">
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ramthinks07@gmail.com" target="_blank">
     <img src="https://skills.syvixor.com/api/icons?i=gmail&perline=12&radius=30" alt="Gmail" />
